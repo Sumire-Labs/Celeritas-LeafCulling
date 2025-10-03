@@ -1,0 +1,25 @@
+# Celeritas Leaf Culling - 日本語翻訳
+
+# ページタイトル
+celeritasleafculling.option.page.title=葉のカリング
+
+# メイントグル
+celeritasleafculling.option.enabled=葉のカリング
+celeritasleafculling.option.enabled.tooltip=葉のカリングを完全に有効化/無効化します。無効にすると、すべての葉の面がレンダリングされます(バニラの動作)。
+
+# プリセット選択
+celeritasleafculling.option.preset=カリングモード
+celeritasleafculling.option.preset.tooltip=葉のカリングのプリセットモードを選択します。\n§7高速§r: 最高のパフォーマンス、見た目はやや劣る\n§7バランス§r: パフォーマンスと品質のバランスが良い(デフォルト)\n§7高画質§r: 最高の視覚品質、わずかなパフォーマンス影響\n§7カスタム§r: 下記の設定を手動で調整
+
+# プリセット名
+celeritasleafculling.option.preset.fast=高速
+celeritasleafculling.option.preset.balanced=バランス
+celeritasleafculling.option.preset.fancy=高画質
+celeritasleafculling.option.preset.custom=カスタム
+
+# カスタム設定
+celeritasleafculling.option.depth=カリング深度
+celeritasleafculling.option.depth.tooltip=表示される葉の層の最大深度 (0 = カリングなし、高いほど多くの葉が表示されます)。\n§7高速§r: 1\n§7バランス§r: 2\n§7高画質§r: 3\n\n§cカスタムモード選択時のみ有効§r
+
+celeritasleafculling.option.randomRejection=ランダム拒否率
+celeritasleafculling.option.randomRejection.tooltip=より自然な見た目のために隠れた葉をランダムに表示する確率 (0% = なし、高いほど多く表示)。\n§7高速§r: 0%\n§7バランス§r: 20%\n§7高画質§r: 10%\n\n§cカスタムモード選択時のみ有効§r

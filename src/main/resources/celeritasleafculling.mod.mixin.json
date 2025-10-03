@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "jp.s12kuma01.celeritasleafculling.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "target": "@env(MOD)",
+  "mixins": [],
+  "minVersion": "0.8.7",
+  "setSourceFile": true,
+  "server": [],
+  "client": []
+}

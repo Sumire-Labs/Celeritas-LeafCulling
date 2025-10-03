@@ -1,0 +1,25 @@
+# Celeritas Leaf Culling - English Translations
+
+# Page Title
+celeritasleafculling.option.page.title=Leaf Culling
+
+# Main Toggle
+celeritasleafculling.option.enabled=Leaf Culling
+celeritasleafculling.option.enabled.tooltip=Enable or disable leaf culling entirely. When disabled, all leaf faces will be rendered (vanilla behavior).
+
+# Preset Selection
+celeritasleafculling.option.preset=Culling Mode
+celeritasleafculling.option.preset.tooltip=Select a preset mode for leaf culling.\n§7FAST§r: Maximum performance, may look blocky\n§7BALANCED§r: Good balance of performance and quality (default)\n§7FANCY§r: Best visual quality, slight performance impact\n§7CUSTOM§r: Manually adjust settings below
+
+# Preset Names
+celeritasleafculling.option.preset.fast=Fast
+celeritasleafculling.option.preset.balanced=Balanced
+celeritasleafculling.option.preset.fancy=Fancy
+celeritasleafculling.option.preset.custom=Custom
+
+# Custom Settings
+celeritasleafculling.option.depth=Culling Depth
+celeritasleafculling.option.depth.tooltip=Maximum depth of visible leaf layers (0 = no culling, higher = more leaves visible).\n§7Fast§r: 1\n§7Balanced§r: 2\n§7Fancy§r: 3\n\n§cOnly active when mode is set to CUSTOM§r
+
+celeritasleafculling.option.randomRejection=Random Rejection
+celeritasleafculling.option.randomRejection.tooltip=Chance to randomly show hidden leaves for more natural appearance (0% = none, higher = more visible).\n§7Fast§r: 0%\n§7Balanced§r: 20%\n§7Fancy§r: 10%\n\n§cOnly active when mode is set to CUSTOM§r

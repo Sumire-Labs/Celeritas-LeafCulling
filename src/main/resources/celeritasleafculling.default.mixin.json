@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "priority": 1001,
+  "package": "jp.s12kuma01.celeritasleafculling.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "target": "@env(DEFAULT)",
+  "mixins": [],
+  "minVersion": "0.8.7",
+  "setSourceFile": true,
+  "server": [],
+  "client": [
+    "MixinBlock",
+    "MixinLeaves"
+  ]
+}
