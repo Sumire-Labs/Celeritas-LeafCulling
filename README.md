@@ -10,6 +10,8 @@ Celeritas Leaf Culling is a mod that improves performance by hiding the inner fa
 
 You can toggle ON/OFF and select from 4 presets (FAST, BALANCED, FANCY, CUSTOM) in the Celeritas GUI.
 
+I do not intend to upload this mod to CurseForge or Modrinth.
+
 #### Presets
 - **FAST**: Maximum performance, slightly lower visual quality
 - **BALANCED**: Good balance of performance and quality (default)
