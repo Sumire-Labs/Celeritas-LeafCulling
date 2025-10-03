@@ -30,4 +30,3 @@ LGPL-3.0 - See LICENSE.md for details
 
 - **isXander** - Author of the original CullLessLeaves mod
 - **yor42** - Author of CullLessLeaves Legacy (I'm really scared to submit a PR, it looks like plagiarism but please forgive me)
-- **s12kuma01** - Migration to CleanroomModTemplate and Celeritas GUI integration
