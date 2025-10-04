@@ -1,4 +1,10 @@
 # Celeritas Leaf Culling
+⚠️ This repository has been archived
+
+This fork has been merged into the upstream CullLessLeaves Legacy repository:
+https://github.com/yor42/CullLessLeaves_Legacy
+
+Please use the original repository for future updates.
 
 A version of yor42's CullLessLeaves Legacy that has been migrated to CleanroomModTemplate and integrated with Celeritas GUI.
 
